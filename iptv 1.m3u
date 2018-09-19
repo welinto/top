@@ -1,0 +1,97 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="filmer",Cinemax
+https://tvonlinegratis1.com/wp-content/themes/tvog1_2016-bkp/fonts/gothic/gothicb.ttf
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="filmer", CINE+
+http://live.sba1.com:8080/hls/livecm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQepPk60Ml7uTHD74Wdy7_1SB6pkzce2s1YVcHqcTL_C8wMO3g" group-title="esporte", Esporte Interativo
+
+#EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="esporte",Fox Sports
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-fun_m.png"group-title="filmer",Telecine Fun
+https://live-edge.pxstream.tv/hls/telecinefunhd/chunks.m3u8?md5=W41ac45vGkSyN6YbPdbhxQ&expires=1537375448
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_telecine-premium-1_m.png"group-title="filmer",Telecine Premium
+https://live-edge.pxstream.tv/hls2/telecinepremium/chunks.m3u8?md5=vIb64jrs_PMngWxAw4ADRg&expires=1537375585
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlineseries.com/uploads/thumbs/d5c92abac-1.jpg"group-title="filmer",Telecine Pipoca
+https://live-edge.pxstream.tv/hls/telecinepipocahd/chunks.m3u8?md5=ySAu_Re3aMyIjrFxDa-skg&expires=1537375740
+
+#EXTINF:-1 tvg-logo="http://radiorama.com.br/marcas/universal-channel.jpg"group-title="filmer",Studio Universal
+https://live-edge.pxstream.tv/loadbalance/universalch/chunks.m3u8?md5=hrikjV3F25DSRABSDLnBfw&expires=1537376184
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180420/sge/kisspng-just-for-laughs-comedy-festival-comedy-central-log-central-5adab64f42ac69.0813950215242829592731.jpg"group-title="filmer",Comedy Central
+https://live-edge.pxstream.tv/loadbalance/26796742673143856911/chunks.m3u8?md5=OmjvWl_iuQcQJHGZyWUEEA&expires=1537381496
+
+#EXTINF:-1 tvg-logo="https://www.sitedecuriosidades.com/im/g/B1A15.jpg"group-title="filmer",RECORD
+https://live-edge.pxstream.tv/hls2/record2278/chunks.m3u8?md5=eUd3cIZlXvJ5iTAenmZWJg&expires=1537381712
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png"group-title="filmer",TNT
+https://apis.google.com/_/scs/apps-static/_/js/k=oz.widget.pt_BR.at_5PGjba-U.O/rt=j/d=1/rs=AGLTcCNcOM0ohmI6RCHHJG-Ht-JOBhdFEQ/m=bdg
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png"group-title="filmer",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w892585113_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png"group-title="filmer",Warner HD.
+http://st.chatango.com/h5/gz/r0803181208/id.html
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/11/canal-fox.jpg"group-title="filmer",Fox
+https://live-edge.pxstream.tv/hls/fox-hd/chunks.m3u8?md5=b6bYbG-QL-joNy1t8SVsXA&expires=1537405847
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",Max Prime
+https://live-edge.pxstream.tv/hls/maxprime/chunks.m3u8?md5=91tcxRvuJicvJZUh-U74cQ&expires=1537406221
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg"group-title="filmer",Cartoon Network
+https://live-edge.pxstream.tv/loadbalance/cartoonnetwork/chunks.m3u8?md5=uPOsiZnnWu3DU7T28EY0Og&expires=1537406643
+
+#EXTINF:-1 tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg"group-title="filmer",Megapix
+https://live-edge.pxstream.tv/hls/megapixhd/chunks.m3u8?md5=GfBaSDuUS8mTcy0ChclLJA&expires=1537406823
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_kncJQ5vvL4/TZNtf21dRYI/AAAAAAAAIbQ/e3jzQUrp-CU/s1600/Logo%2BDisney%2BJunior.jpg"group-title="filmer",Disney HD
+https://live-edge.pxstream.tv/loadbalance/disney-junior/chunks.m3u8?md5=JjY2-DYc-xdBjW_KLUZYtA&expires=1537407005
+
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156194/space-hd.png?v=636446935419400000"group-title="filmer",Space HD
+https://canal.cometa.top/hls1/space-sd.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0fv2ECBJSL8/Wpr1Cky2F9I/AAAAAAAAFSk/cUtEdAQ8I0wShE888TkDvIexHh7e-CMzACLcBGAs/s400/assistir-playboy-tv-ao-vivo.jpg"group-title="filmer",PlayboyTV
+http://st.chatango.com/h5/gz/r0803181208/id.html
+
+#EXTINF:-1 tvg-logo=""group-title="filmer",passiesxx
+http://st.chatango.com/h5/gz/r0803181208/id.html
